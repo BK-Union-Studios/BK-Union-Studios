@@ -1,14 +1,14 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3A7CA5&icon_color=F39C12&text_color=FFFFFF" 
+    src="https://github-readme-stats.vercel.app/api?username=BK-Union-Studios&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3A7CA5&icon_color=F39C12&text_color=FFFFFF" 
     alt="GitHub Stats" width="480"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=3A7CA5&text_color=FFFFFF" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BK-Union-Studios&layout=compact&hide_border=true&bg_color=0D1117&title_color=3A7CA5&text_color=FFFFFF" 
     alt="Top Languages" width="360"
   />
 </p>
@@ -27,14 +27,12 @@
 
 <p align="center">
 
-  <!-- Discord -->
   <a href="https://discord.gg/fVKprXam4Z">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-3A7CA5?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 
-  <!-- Tebex -->
   <a href="https://bk-union-studios.tebex.io">
-    <img alt="Tebex" src="https://img.shields.io/badge/Tebex-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white">
+    <img alt="Tebex" src="https://img.shields.io/badge/Tebex-orange?style=for-the-badge&logo=shopping-cart&logoColor=white">
   </a>
 
 </p>
@@ -48,5 +46,3 @@
 
 ### 📦 Public projects
 Scroll down ⬇️ to view repositories.
-
----
