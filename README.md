@@ -1,14 +1,14 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=BK-Union-Studios&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3A7CA5&icon_color=F39C12&text_color=FFFFFF" 
+    src="https://github-readme-stats.vercel.app/api?username=BK-Union-Studios&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3A7CA5&icon_color=F39C12&text_color=FFFFFF&cache_seconds=86400" 
     alt="GitHub Stats" width="480"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BK-Union-Studios&layout=compact&hide_border=true&bg_color=0D1117&title_color=3A7CA5&text_color=FFFFFF" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BK-Union-Studios&layout=compact&hide_border=true&bg_color=0D1117&title_color=3A7CA5&text_color=FFFFFF&cache_seconds=86400" 
     alt="Top Languages" width="360"
   />
 </p>
@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="BK_Logo.png" alt="BK Union Studios Logo" width="220">
+  <img src="https://raw.githubusercontent.com/BK-Union-Studios/BK-Union-Studios/main/BK_Logo.png" alt="BK Union Studios Logo" width="220">
 </p>
 
 <h2 align="center">🟦🧡 BK Union Studios</h2>
