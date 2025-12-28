@@ -14,10 +14,6 @@
     <img alt="Discord" src="https://img.shields.io/badge/Discord-3A7CA5?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 
-  <a href="https://bk-union-studios.tebex.io">
-    <img alt="Tebex" src="https://img.shields.io/badge/Tebex-orange?style=for-the-badge&logo=shopping-cart&logoColor=white">
-  </a>
-
 </p>
 
 ---
